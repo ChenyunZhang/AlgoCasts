@@ -22,6 +22,4 @@ function chunk(array, size) {
     return final
 }
 
-console.log(chunk([], 0))
-
 module.exports = chunk;
